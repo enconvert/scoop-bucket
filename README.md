@@ -15,3 +15,7 @@ The manifest in `bucket/` is generated automatically by the release pipeline in
 - CLI source: https://github.com/enconvert/cli
 - Docs: https://enconvert.com/docs/cli
 - Issues: https://github.com/enconvert/cli/issues
+
+## License
+
+MIT — see [LICENSE](LICENSE). The EnConvert CLI itself is also MIT licensed.
